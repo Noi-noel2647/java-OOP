@@ -1,6 +1,6 @@
 package confirm11Q1;
 
-public class CalcNomal {
+public class CalcNormal {
 
 
 	/**
