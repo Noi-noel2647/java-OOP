@@ -1,8 +1,9 @@
-package confirm11Q2;
+package confirm11Q1;
 
-public class CalcNomal {
+public class CalcNormal {
 
-	/*
+
+	/**
 	 * 加算をするメソッド
 	 * @param no1 引数1
 	 * @param no2 引数2
@@ -12,8 +13,7 @@ public class CalcNomal {
 
 	}
 
-
-	/*
+	/**
 	 * 滅算をするメソッド
 	 * @param no1 引数1
 	 * @param no2 引数2

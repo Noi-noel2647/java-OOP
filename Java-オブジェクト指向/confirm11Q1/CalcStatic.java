@@ -2,7 +2,7 @@ package confirm11Q1;
 
 public class CalcStatic {
 
-	/*
+	/**
 	 * 加算をする静的メソッド
 	 * @param no1 引数1
 	 * @param no2 引数2
@@ -12,7 +12,7 @@ public class CalcStatic {
 
 	}
 
-	/*
+	/**
 	 * 滅算をする静的メソッド
 	 * @param no1 引数1
 	 * @param no2 引数2
